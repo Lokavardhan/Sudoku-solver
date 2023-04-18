@@ -1,5 +1,6 @@
 # Sudoku-Suite
 
+
 A C++17-compatible header that provides useful functions which help with the solving, validation and generation of 9x9 Sudoku puzzles. 
 
 
@@ -39,6 +40,7 @@ There are **three functions** that Sudoku-Suite provides the developer, along wi
     *  A function that takes in a `Grid` object and returns a `bool` with a value of `true` if the `Grid` object contains a finished and valid Sudoku solution. 
 * `Grid generate_puzzle()`
     *  A function that takes in nothing and returns a `Grid` object containing an unfinished Sudoku puzzle.
+
 
 ## Examples
 
